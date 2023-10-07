@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NickelHUBB/SonicTuru/main/ChestFarmOp"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HNGB/MyScripts/main/YMF"))()
